@@ -185,4 +185,5 @@ Se conecta el desarrollo en .NET con arquitecturas agénticas:
 ### Disclaimer / Aviso
 
 [EN] This README is a summarized interpretation of the AI sessions from the [Global .NET Conf 2025](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXtIlvq1tuORUtZqVG-HdCt), and is provided “_as-is_”.
+
 [ES] Este README es una interpretación resumida de las sesiones de IA de la [Global .NET Conf 2025](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXtIlvq1tuORUtZqVG-HdCt) y se proporciona “_tal cual_”.
